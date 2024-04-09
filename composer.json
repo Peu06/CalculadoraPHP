@@ -1,0 +1,4 @@
+{
+    "name": "alunos/calculadora",
+    "autoload": {"psr-4": {"App\\": "src/"}}
+}
